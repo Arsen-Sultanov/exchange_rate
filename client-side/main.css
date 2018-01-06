@@ -1,0 +1,49 @@
+body{
+    background-color: #0f2a56;
+}
+button{
+    background-color: #0f2a56;
+    border-radius: 5px;
+    border: transparent;
+    width: 25%;
+    height: 35px;
+}
+.btn-more{
+    background-color: #72142e;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+    width: 100%;
+    height: 35px;
+    margin-bottom: 3%;
+   
+    
+}
+.head-div{
+    width: 100%;
+    border-top: 5px solid #72142e;
+    border-bottom: 5px solid #72142e;
+}
+.img{
+
+    background-image: url('image/725447.jpg');
+    width: 100%;
+    height: 100px;
+}
+.state{
+    background-color: #72142e;
+    color: white;
+    border-radius: 5px;
+    padding: 2%;
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 2.5%;
+}
+.desc{
+    padding-left: 0.9%;
+    padding-right: 0.9%;
+}
+
+.margin{
+    margin-top: 5%;
+}
